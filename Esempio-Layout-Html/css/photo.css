@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 1200px;
+    margin: auto;
+    font-family: 'Oswald', sans-serif;
+   
+
+}
+
+
+.italic {
+
+    font-family: 'Edu TAS Beginner', cursive;
+    
+
+}
+
+.fonttitoli {
+    font-family: 'Teko', sans-serif;
+}
+
+
+
+ header{
+ overflow: auto;
+
+ }
+
+
+#titolouno {
+
+    width: 600px;
+    font-size: 3em;
+    float: left;
+    
+
+}
+
+#titolodue {
+    width: 600px;
+    font-size: 2em;
+    float: right;
+    padding-top: 90px;
+    
+    
+}
+
+
+.img {
+
+    width: 297px;
+    padding: 5px;
+   
+}
+
+article {
+    margin-bottom: 140px
+}
+
+
+
+
+#imgwho {
+width: 600px;
+float: left;
+margin-top: 40px;
+}
+
+
+
+#textwho {
+    width: 600px;
+    float: right;
+    font-size: 46px;
+    
+}
+
+#partedue {
+    margin-bottom: 230px;
+}
+
+
+
+#portfolio {
+margin-bottom: 60px;
+}
+
+
+#sec2 div {
+ width: 390px;
+ margin: 5px;
+ float: left;
+
+}
+
+#fine {
+   clear: both;
+   padding-top: 100px;
+   
+   
+}
+
+#infom {
+padding-bottom: 50px;
+}
+
+
+#imco {
+    width: 500px;
+    float: left;
+    
+}
+
+#ex {
+
+    width: 350px;
+    float: left ;
+    font-size: 20px;
+   
+
+}
+
+#ed {
+ width: 350px;
+ float: right;
+ font-size: 20px;
+ 
+}
+
+#co {
+ width: 350px;
+ float: left;
+ font-size: 20px;
+
+}
+
